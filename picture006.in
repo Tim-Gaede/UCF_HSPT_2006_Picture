@@ -1,0 +1,14 @@
+6
+normal 1.0
+rough 0.5
+sand 0.3
+smooth 2.0
+grass 0.8
+ice 3.0
+5
+smooth 100
+rough 500
+sand 300
+rough 200
+ice 100000
+50 100
